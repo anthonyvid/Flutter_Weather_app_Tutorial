@@ -1,6 +1,6 @@
-# flutter_application_2
+# Weather App
 
-A new Flutter project.
+A tutorial I followed to start learning the basics of Flutter.
 
 ## Getting Started
 
